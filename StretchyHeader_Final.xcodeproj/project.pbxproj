@@ -42,7 +42,6 @@
 		EC393FD5287F9654004DAB6C = {
 			isa = PBXGroup;
 			children = (
-				EC393FF5287F9676004DAB6C /* CustomHeaderView.swift */,
 				EC393FE0287F9654004DAB6C /* StretchyHeader_Final */,
 				EC393FDF287F9654004DAB6C /* Products */,
 			);
@@ -62,6 +61,7 @@
 				EC393FE1287F9654004DAB6C /* AppDelegate.swift */,
 				EC393FE3287F9654004DAB6C /* SceneDelegate.swift */,
 				EC393FE5287F9654004DAB6C /* ViewController.swift */,
+				EC393FF5287F9676004DAB6C /* CustomHeaderView.swift */,
 				EC393FE7287F9654004DAB6C /* Main.storyboard */,
 				EC393FEA287F9655004DAB6C /* Assets.xcassets */,
 				EC393FEC287F9655004DAB6C /* LaunchScreen.storyboard */,
