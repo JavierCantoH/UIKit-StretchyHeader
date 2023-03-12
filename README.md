@@ -34,10 +34,10 @@ layout.headerImageView.image = UIImage(named: "headerImage")
 layout.backgroundColor = .systemBackground
 ```
 
-Credits 🙌
+## Credits 🙌
 
-The StretchyHeader project was created by Javier Canto. The project was inspired by the Stretchy Headers in UICollectionView tutorial by Audrey Tam.
+The StretchyHeader project was created by [Javier Canto](https://github.com/JavierCantoH). The project was inspired by the Stretchy Headers in UICollectionView tutorial by Audrey Tam.
 
-License 📜
+## License 📜
 
 The StretchyHeader project is licensed under the MIT License. Feel free to use this code in your own projects, but please give credit to the original author.
